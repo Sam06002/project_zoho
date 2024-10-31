@@ -1,0 +1,6 @@
+{
+    "default": "Dear {customer_name}, Thank you for contacting us. Your ticket (ID: {ticket_id}) has been received.",
+    "Technical": "Dear {customer_name}, Thank you for reporting this technical issue (ID: {ticket_id}). Our technical team will investigate.",
+    "Billing": "Dear {customer_name}, Thank you for your billing inquiry (ID: {ticket_id}). Our billing team will review your case.",
+    "Feature": "Dear {customer_name}, Thank you for your feature suggestion (ID: {ticket_id}). We appreciate your feedback."
+}
